@@ -1,0 +1,62 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Workflow/src/ClusterizerMCSpec.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Workflow/src/ClusterizerMCSpec.cxx">
+<area shape="rect" id="node2" href="$dc/de5/ClusterizerMCSpec_8h.html" title="Data processor specs for MID MC clustering device. " alt="" coords="4602,124,4846,151"/>
+<area shape="rect" id="node8" href="$d5/db8/DataRefUtils_8h.html" title="Framework/DataRefUtils.h" alt="" coords="1545,497,1737,524"/>
+<area shape="rect" id="node57" href="$d3/ddf/Output_8h.html" title="Framework/Output.h" alt="" coords="3099,743,3253,770"/>
+<area shape="rect" id="node73" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="8074,124,8227,151"/>
+<area shape="rect" id="node74" href="$df/d4f/Task_8h.html" title="Framework/Task.h" alt="" coords="465,199,604,225"/>
+<area shape="rect" id="node79" href="$d3/d53/ColumnData_8h.html" title="Strip pattern (aka digits) " alt="" coords="7770,833,7998,859"/>
+<area shape="rect" id="node81" href="$d2/df9/MUON_2MID_2include_2DataFormatsMID_2ROFRecord_8h.html" title="Definition of the MID event record. " alt="" coords="6543,833,6761,859"/>
+<area shape="rect" id="node87" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="5025,825,5194,867"/>
+<area shape="rect" id="node88" href="$d7/d1a/PreClusterizer_8h.html" title="Pre&#45;cluster reconstruction algorithm for MID. " alt="" coords="6821,743,7040,770"/>
+<area shape="rect" id="node92" href="$d5/d51/MUON_2MID_2Clustering_2include_2MIDClustering_2Clusterizer_8h.html" title="Cluster reconstruction algorithm for MID. " alt="" coords="6197,654,6395,681"/>
+<area shape="rect" id="node96" href="$d2/d6b/ClusterLabeler_8h.html" title="ClusterLabeler for MID. " alt="" coords="5853,743,6080,770"/>
+<area shape="rect" id="node99" href="$de/da1/Detectors_2MUON_2MID_2Simulation_2include_2MIDSimulation_2MCLabel_8h.html" title="Label for MID. " alt="" coords="6331,833,6519,859"/>
+<area shape="rect" id="node100" href="$de/d28/PreClusterLabeler_8h.html" title="PreClusterLabeler for MID. " alt="" coords="6105,736,6293,777"/>
+<area shape="rect" id="node3" href="$d0/df4/DataProcessorSpec_8h.html" title="Framework/DataProcessorSpec.h" alt="" coords="4377,199,4612,225"/>
+<area shape="rect" id="node4" href="$d0/d14/AlgorithmSpec_8h.html" title="Framework/AlgorithmSpec.h" alt="" coords="3263,273,3468,300"/>
+<area shape="rect" id="node7" href="$d5/dfb/DataRef_8h.html" title="Framework/DataRef.h" alt="" coords="3401,572,3562,599"/>
+<area shape="rect" id="node37" href="$db/d2d/OutputSpec_8h.html" title="Framework/OutputSpec.h" alt="" coords="3502,743,3687,770"/>
+<area shape="rect" id="node50" href="$d5/d3f/InputSpec_8h.html" title="Framework/InputSpec.h" alt="" coords="3987,654,4162,681"/>
+<area shape="rect" id="node68" href="$d0/d1c/ConfigParamSpec_8h.html" title="Framework/ConfigParamSpec.h" alt="" coords="4159,833,4382,859"/>
+<area shape="rect" id="node70" href="$d1/df2/DataProcessorLabel_8h.html" title="Framework/DataProcessorLabel.h" alt="" coords="4193,273,4431,300"/>
+<area shape="rect" id="node71" href="$d8/d02/CommonServices_8h.html" title="Framework/CommonServices.h" alt="" coords="3739,654,3963,681"/>
+<area shape="rect" id="node5" href="$de/d6a/ProcessingContext_8h.html" title="Framework/ProcessingContext.h" alt="" coords="2595,348,2826,375"/>
+<area shape="rect" id="node65" href="$d7/dad/ErrorContext_8h.html" title="Framework/ErrorContext.h" alt="" coords="3269,348,3461,375"/>
+<area shape="rect" id="node66" href="$d4/d2b/InitContext_8h.html" title="Framework/InitContext.h" alt="" coords="3062,348,3245,375"/>
+<area shape="rect" id="node67" href="$de/d9b/FunctionalHelpers_8h.html" title="Framework/FunctionalHelpers.h" alt="" coords="3675,423,3901,449"/>
+<area shape="rect" id="node6" href="$d6/d5c/InputRecord_8h.html" title="Framework/InputRecord.h" alt="" coords="2617,423,2804,449"/>
+<area shape="rect" id="node61" href="$d1/d28/DataAllocator_8h.html" title="Framework/DataAllocator.h" alt="" coords="1235,654,1434,681"/>
+<area shape="rect" id="node20" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="2379,1004,2573,1031"/>
+<area shape="rect" id="node23" href="$d0/d95/TypeTraits_8h.html" title="Framework/TypeTraits.h" alt="" coords="665,833,839,859"/>
+<area shape="rect" id="node26" href="$db/d31/Traits_8h.html" title="Framework/Traits.h" alt="" coords="614,922,759,949"/>
+<area shape="rect" id="node30" href="$d7/d91/BoostSerializer_8h.html" title="Templatised boost serializer/deserializer for containers and base types. " alt="" coords="915,833,1139,859"/>
+<area shape="rect" id="node38" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="2974,922,3143,949"/>
+<area shape="rect" id="node9" href="$db/dff/RootSerializationSupport_8h.html" title="Framework/RootSerialization\lSupport.h" alt="" coords="1537,647,1745,688"/>
+<area shape="rect" id="node22" href="$d1/d53/SerializationMethods_8h.html" title="Type wrappers for enfording a specific serialization method. " alt="" coords="1026,743,1273,770"/>
+<area shape="rect" id="node36" href="$d6/d68/DataSpecUtils_8h.html" title="Framework/DataSpecUtils.h" alt="" coords="3067,572,3269,599"/>
+<area shape="rect" id="node59" href="$d1/d00/CheckTypes_8h.html" title="Framework/CheckTypes.h" alt="" coords="664,743,851,770"/>
+<area shape="rect" id="node10" href="$d8/d3c/TMessageSerializer_8h.html" title="Framework/TMessageSerializer.h" alt="" coords="1604,743,1839,770"/>
+<area shape="rect" id="node47" href="$dc/dca/Lifetime_8h.html" title="Framework/Lifetime.h" alt="" coords="3097,833,3261,859"/>
+<area shape="rect" id="node48" href="$d0/d1b/ConcreteDataMatcher_8h.html" title="Framework/ConcreteDataMatcher.h" alt="" coords="3488,833,3739,859"/>
+<area shape="rect" id="node51" href="$d3/da3/DataDescriptorMatcher_8h.html" title="Framework/DataDescriptor\lMatcher.h" alt="" coords="3915,736,4111,777"/>
+<area shape="rect" id="node52" href="$d4/d00/Headers_2include_2Headers_2Stack_8h.html" title="Headers/Stack.h" alt="" coords="3336,833,3464,859"/>
+<area shape="rect" id="node53" href="$dc/d03/MemoryResources_8h.html" title="MemoryResources/MemoryResources.h" alt="" coords="3402,922,3678,949"/>
+<area shape="rect" id="node62" href="$d8/d17/ServiceRegistry_8h.html" title="Framework/ServiceRegistry.h" alt="" coords="2537,743,2746,770"/>
+<area shape="rect" id="node63" href="$d2/d9a/TypeIdHelpers_8h.html" title="Framework/TypeIdHelpers.h" alt="" coords="2717,833,2920,859"/>
+<area shape="rect" id="node69" href="$de/d56/Variant_8h.html" title="Framework/Variant.h" alt="" coords="4134,922,4290,949"/>
+<area shape="rect" id="node72" href="$d4/d61/ServiceSpec_8h.html" title="Framework/ServiceSpec.h" alt="" coords="4456,743,4645,770"/>
+<area shape="rect" id="node75" href="$d9/d7f/CallbackService_8h.html" title="Framework/CallbackService.h" alt="" coords="121,654,335,681"/>
+<area shape="rect" id="node78" href="$d0/d77/EndOfStreamContext_8h.html" title="Framework/EndOfStreamContext.h" alt="" coords="1487,348,1734,375"/>
+<area shape="rect" id="node76" href="$d7/d3e/CallbackRegistry_8h.html" title="A generic registry for callbacks. " alt="" coords="195,743,336,770"/>
+<area shape="rect" id="node82" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="6093,915,6325,956"/>
+<area shape="rect" id="node83" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="5698,1004,5865,1031"/>
+<area shape="rect" id="node86" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="5991,1004,6244,1031"/>
+<area shape="rect" id="node89" href="$d2/d0e/Mapping_8h.html" title="Mapping for MID. " alt="" coords="7493,833,7643,859"/>
+<area shape="rect" id="node91" href="$d0/d8d/MID_2Clustering_2include_2MIDClustering_2PreCluster_8h.html" title="Pre&#45;cluster structure for MID. " alt="" coords="6112,833,6307,859"/>
+<area shape="rect" id="node90" href="$d7/d0a/MpArea_8h.html" title="Mapping area for MID. " alt="" coords="7496,922,7640,949"/>
+<area shape="rect" id="node93" href="$d6/d31/Cluster2D_8h.html" title="Reconstructed cluster per RPC. " alt="" coords="5725,833,5936,859"/>
+<area shape="rect" id="node94" href="$d8/dc8/PreClusterHelper_8h.html" title="Pre&#45;clusters helper for MID. " alt="" coords="7412,736,7596,777"/>
+<area shape="rect" id="node95" href="$d3/dde/PreClustersDE_8h.html" title="Structure with pre&#45;clusters in the MID detection element. " alt="" coords="7247,833,7468,859"/>
+<area shape="rect" id="node97" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="5697,915,5866,956"/>
+<area shape="rect" id="node98" href="$d3/db3/MCClusterLabel_8h.html" title="Label for MID clusters. " alt="" coords="6836,833,7071,859"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="o2::InteractionRecord" name="o2::InteractionRecord">
+<area shape="rect" id="node2" href="$dd/d97/structo2_1_1fdd_1_1Digitizer_1_1BCCache.html" title="{o2::fdd::Digitizer\l::BCCache\n|+ pulse\l+ labels\l|+ BCCache()\l+ clear()\l+ operator=()\l+ print()\l}" alt="" coords="5,725,136,875"/>
+<area shape="rect" id="node3" href="$db/dc7/structo2_1_1globaltracking_1_1InteractionCandidate.html" title="{o2::globaltracking\l::InteractionCandidate\n|+ timeBins\l+ rofITS\l+ flag\l+ clRefPtr\l|+ InteractionCandidate()\l+ InteractionCandidate()\l}" alt="" coords="161,725,343,875"/>
+<area shape="rect" id="node4" href="$d8/d98/structo2_1_1InteractionTimeRecord.html" title="{o2::InteractionTimeRecord\n|+ timeInBCNS\l|+ InteractionTimeRecord()\l+ InteractionTimeRecord()\l+ InteractionTimeRecord()\l+ setFromNS()\l+ clear()\l+ getTimeOffsetWrtBC()\l+ getTimeNS()\l+ operator==()\l+ operator!=()\l+ operator\&gt;()\l+ operator\&gt;=()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ print()\l+ ClassDefNV()\l}" alt="" coords="368,659,563,941"/>
+<area shape="rect" id="node5" href="$dd/d2e/structo2_1_1zdc_1_1Digitizer_1_1BCCache.html" title="{o2::zdc::Digitizer\l::BCCache\n|+ data\l+ labels\l+ digitized\l+ triggerChecked\l+ trigChanMask\l+ AllChannelsMask\l|+ BCCache()\l+ clear()\l+ operator=()\l+ print()\l}" alt="" coords="587,695,735,905"/>
+</map>

@@ -1,0 +1,38 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/simulation/src/Digitizer.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/simulation/src/Digitizer.cxx">
+<area shape="rect" id="node2" href="$d3/d1e/DataFormats_2Detectors_2ITSMFT_2common_2include_2DataFormatsITSMFT_2Digit_8h.html" title="DataFormatsITSMFT/Digit.h" alt="" coords="809,206,1007,233"/>
+<area shape="rect" id="node5" href="$d3/dba/SegmentationAlpide_8h.html" title="Definition of the SegmentationAlpide class. " alt="" coords="2409,295,2657,322"/>
+<area shape="rect" id="node6" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1663,385,1843,411"/>
+<area shape="rect" id="node17" href="$d7/d9c/ITSMFT_2common_2simulation_2include_2ITSMFTSimulation_2Digitizer_8h.html" title="ITSMFTSimulation/Digitizer.h" alt="" coords="3535,124,3743,151"/>
+<area shape="rect" id="node79" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="5310,377,5479,419"/>
+<area shape="rect" id="node14" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="115,474,295,501"/>
+<area shape="rect" id="node22" href="$da/d93/ChipDigitsContainer_8h.html" title="transient container for single chip digits accumulation " alt="" coords="2730,199,2939,240"/>
+<area shape="rect" id="node23" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="2571,377,2741,419"/>
+<area shape="rect" id="node27" href="$dc/d1a/AlpideSimResponse_8h.html" title="Definition of the ITSMFT Alpide simulated response parametrization. " alt="" coords="4053,467,4261,508"/>
+<area shape="rect" id="node30" href="$d9/dce/Detectors_2ITSMFT_2common_2simulation_2include_2ITSMFTSimulation_2DigiParams_8h.html" title="ITSMFTSimulation/DigiParams.h" alt="" coords="3525,206,3753,233"/>
+<area shape="rect" id="node61" href="$d9/d4e/Detectors_2ITSMFT_2common_2simulation_2include_2ITSMFTSimulation_2Hit_8h.html" title="ITSMFTSimulation/Hit.h" alt="" coords="1848,206,2021,233"/>
+<area shape="rect" id="node70" href="$d4/d5c/ITSMFT_2common_2base_2include_2ITSMFTBase_2GeometryTGeo_8h.html" title="ITSMFTBase/GeometryTGeo.h" alt="" coords="4169,206,4383,233"/>
+<area shape="rect" id="node75" href="$d0/dc6/ITSMFT_2common_2include_2DataFormatsITSMFT_2ROFRecord_8h.html" title="DataFormatsITSMFT/ROFRecord.h" alt="" coords="3015,295,3254,322"/>
+<area shape="rect" id="node77" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="3171,377,3403,419"/>
+<area shape="rect" id="node25" href="$d2/d53/PreDigit_8h.html" title="Definition of the digit contribution from single hit. " alt="" coords="2733,295,2939,322"/>
+<area shape="rect" id="node24" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="2718,474,2885,501"/>
+<area shape="rect" id="node31" href="$d1/d47/AlpideSignalTrapezoid_8h.html" title="Simple class describing ALPIDE signal time shape. " alt="" coords="3379,288,3602,329"/>
+<area shape="rect" id="node32" href="$d4/d35/DPLAlpideParam_8h.html" title="ITSMFTBase/DPLAlpideParam.h" alt="" coords="3690,295,3913,322"/>
+<area shape="rect" id="node33" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="4595,377,4823,419"/>
+<area shape="rect" id="node52" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="3629,467,3827,508"/>
+<area shape="rect" id="node57" href="$da/d6b/ConfigurableParamHelper_8h.html" title="CommonUtils/Configurable\lParamHelper.h" alt="" coords="3629,377,3827,419"/>
+<area shape="rect" id="node60" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="3061,474,3315,501"/>
+<area shape="rect" id="node39" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="4997,474,5128,501"/>
+<area shape="rect" id="node47" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="5305,474,5474,501"/>
+<area shape="rect" id="node41" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="4897,645,5039,672"/>
+<area shape="rect" id="node44" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="4949,563,5102,590"/>
+<area shape="rect" id="node46" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="4615,563,4873,590"/>
+<area shape="rect" id="node42" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="4767,720,4964,747"/>
+<area shape="rect" id="node43" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="4988,720,5153,747"/>
+<area shape="rect" id="node50" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="5217,563,5412,590"/>
+<area shape="rect" id="node62" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="1927,288,2097,329"/>
+<area shape="rect" id="node64" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="2172,295,2385,322"/>
+<area shape="rect" id="node65" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="537,385,748,411"/>
+<area shape="rect" id="node72" href="$d4/d20/DetMatrixCache_8h.html" title="DetectorsCommonDataFormats\l/DetMatrixCache.h" alt="" coords="4226,288,4454,329"/>
+<area shape="rect" id="node73" href="$df/d5b/GPUCommonLogger_8h.html" title="GPUCommonLogger.h" alt="" coords="4131,385,4295,411"/>
+<area shape="rect" id="node76" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="2765,385,3045,411"/>
+</map>

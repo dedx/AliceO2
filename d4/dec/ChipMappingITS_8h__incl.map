@@ -1,0 +1,12 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/reconstruction/include/ITSMFTReconstruction/ChipMappingITS.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/reconstruction/include/ITSMFTReconstruction/ChipMappingITS.h">
+<area shape="rect" id="node7" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="1090,228,1259,255"/>
+<area shape="rect" id="node16" href="$dc/dd8/RUInfo_8h.html" title="ITSMFTReconstruction\l/RUInfo.h" alt="" coords="30,139,194,180"/>
+<area shape="rect" id="node17" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="493,139,721,180"/>
+<area shape="rect" id="node14" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="1133,303,1328,329"/>
+<area shape="rect" id="node21" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="405,228,536,255"/>
+<area shape="rect" id="node23" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="579,377,722,404"/>
+<area shape="rect" id="node26" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="638,303,791,329"/>
+<area shape="rect" id="node27" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="304,303,563,329"/>
+<area shape="rect" id="node24" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="449,452,647,479"/>
+<area shape="rect" id="node25" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="671,452,836,479"/>
+</map>

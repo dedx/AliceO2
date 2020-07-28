@@ -1,0 +1,55 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/MFT/reconstruction/src/ClustererTask.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/MFT/reconstruction/src/ClustererTask.cxx">
+<area shape="rect" id="node2" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="5088,481,5316,523"/>
+<area shape="rect" id="node26" href="$db/d12/ITSMFT_2MFT_2reconstruction_2include_2MFTReconstruction_2ClustererTask_8h.html" title="MFTReconstruction/Clusterer\lTask.h" alt="" coords="2173,124,2380,165"/>
+<area shape="rect" id="node96" href="$dc/de5/Detectors_2ITSMFT_2MFT_2base_2include_2MFTBase_2Constants_8h.html" title="MFTBase/Constants.h" alt="" coords="291,221,452,247"/>
+<area shape="rect" id="node97" href="$d6/d2e/ITSMFT_2MFT_2base_2include_2MFTBase_2Geometry_8h.html" title="MFTBase/Geometry.h" alt="" coords="6544,131,6703,158"/>
+<area shape="rect" id="node11" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="5415,578,5546,605"/>
+<area shape="rect" id="node19" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="5917,578,6087,605"/>
+<area shape="rect" id="node13" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="6637,757,6780,783"/>
+<area shape="rect" id="node16" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="5467,667,5620,694"/>
+<area shape="rect" id="node18" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="5042,667,5301,694"/>
+<area shape="rect" id="node14" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="6713,846,6910,873"/>
+<area shape="rect" id="node15" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="6523,846,6689,873"/>
+<area shape="rect" id="node24" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="6154,667,6349,694"/>
+<area shape="rect" id="node27" href="$d0/d6b/ChipMappingMFT_8h.html" title="ITSMFTReconstruction\l/ChipMappingMFT.h" alt="" coords="5888,392,6052,433"/>
+<area shape="rect" id="node30" href="$df/d2e/PixelReader_8h.html" title="Abstract class for Alpide data reader class. " alt="" coords="2372,481,2536,523"/>
+<area shape="rect" id="node39" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="1875,571,2044,612"/>
+<area shape="rect" id="node40" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="4592,571,4761,612"/>
+<area shape="rect" id="node42" href="$dd/db8/RawPixelReader_8h.html" title="Definition of the Alpide pixel reader for raw data processing. " alt="" coords="3977,213,4141,255"/>
+<area shape="rect" id="node66" href="$d4/d75/DigitPixelReader_8h.html" title="Definition of the Alpide pixel reader for MC digits processing. " alt="" coords="2492,392,2656,433"/>
+<area shape="rect" id="node67" href="$d0/dc6/ITSMFT_2common_2include_2DataFormatsITSMFT_2ROFRecord_8h.html" title="DataFormatsITSMFT/ROFRecord.h" alt="" coords="1719,489,1957,515"/>
+<area shape="rect" id="node70" href="$d6/d04/ITSMFT_2common_2reconstruction_2include_2ITSMFTReconstruction_2Clusterer_8h.html" title="ITSMFTReconstruction\l/Clusterer.h" alt="" coords="1637,392,1801,433"/>
+<area shape="rect" id="node82" href="$df/de4/CompCluster_8h.html" title="Definition of the ITSMFT compact cluster. " alt="" coords="527,757,778,783"/>
+<area shape="rect" id="node90" href="$d1/d62/DataFormats_2Detectors_2ITSMFT_2common_2include_2DataFormatsITSMFT_2Cluster_8h.html" title="DataFormatsITSMFT/Cluster.h" alt="" coords="1893,221,2106,247"/>
+<area shape="rect" id="node29" href="$dc/dd8/RUInfo_8h.html" title="ITSMFTReconstruction\l/RUInfo.h" alt="" coords="6520,481,6684,523"/>
+<area shape="rect" id="node31" href="$da/d8d/PixelData_8h.html" title="Transient data classes for single pixel and set of pixels from current chip. " alt="" coords="2524,571,2688,612"/>
+<area shape="rect" id="node33" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="2609,660,2841,701"/>
+<area shape="rect" id="node32" href="$d3/d1e/DataFormats_2Detectors_2ITSMFT_2common_2include_2DataFormatsITSMFT_2Digit_8h.html" title="DataFormatsITSMFT/Digit.h" alt="" coords="2385,667,2584,694"/>
+<area shape="rect" id="node34" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="2795,757,2961,783"/>
+<area shape="rect" id="node36" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="2389,757,2642,783"/>
+<area shape="rect" id="node43" href="$d4/d78/DataFormats_2Headers_2include_2Headers_2RAWDataHeader_8h.html" title="Headers/RAWDataHeader.h" alt="" coords="6543,578,6741,605"/>
+<area shape="rect" id="node44" href="$d3/d57/ChipMappingITS_8h.html" title="ITSMFTReconstruction\l/ChipMappingITS.h" alt="" coords="5395,392,5559,433"/>
+<area shape="rect" id="node46" href="$d8/da2/AlpideCoder_8h.html" title="class for the ALPIDE data decoding/encoding " alt="" coords="3560,481,3724,523"/>
+<area shape="rect" id="node49" href="$d0/d35/PayLoadCont_8h.html" title="Declaration of class for continuos buffer of ALPIDE data. " alt="" coords="5621,578,5740,605"/>
+<area shape="rect" id="node53" href="$dd/d86/GBTWord_8h.html" title="ITSMFTReconstruction\l/GBTWord.h" alt="" coords="6867,392,7031,433"/>
+<area shape="rect" id="node54" href="$de/da4/Triggers_8h.html" title="Definition of the 32 Central Trigger System (CTS) Trigger Types defined in https://twiki.cern.ch/twiki/pub/ALICE/NoteForFEDevelopers/CTS_CRU_FE_interface.pdf. " alt="" coords="5989,310,6202,337"/>
+<area shape="rect" id="node55" href="$d4/d20/PayLoadSG_8h.html" title="Declaration of class for scatter&#45;gather buffer. " alt="" coords="4404,571,4568,612"/>
+<area shape="rect" id="node56" href="$d0/dd1/GBTLink_8h.html" title="Declarations of helper classes for the ITS/MFT raw data decoding. " alt="" coords="5049,303,5213,344"/>
+<area shape="rect" id="node57" href="$db/d0e/RUDecodeData_8h.html" title="Declaration of the Readout Unite decoder class. " alt="" coords="4063,392,4227,433"/>
+<area shape="rect" id="node58" href="$d6/dec/Raw_2include_2DetectorsRaw_2RDHUtils_8h.html" title="DetectorsRaw/RDHUtils.h" alt="" coords="6128,399,6316,426"/>
+<area shape="rect" id="node52" href="$d0/d7b/NoiseMap_8h.html" title="Definition of the ITSMFT NoiseMap. " alt="" coords="3489,578,3721,605"/>
+<area shape="rect" id="node59" href="$d6/d89/RDHAny_8h.html" title="Headers/RDHAny.h" alt="" coords="6250,489,6394,515"/>
+<area shape="rect" id="node60" href="$d7/d34/DAQID_8h.html" title="Headers/DAQID.h" alt="" coords="5939,489,6073,515"/>
+<area shape="rect" id="node68" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="1519,578,1799,605"/>
+<area shape="rect" id="node71" href="$d3/dba/SegmentationAlpide_8h.html" title="Definition of the SegmentationAlpide class. " alt="" coords="629,578,877,605"/>
+<area shape="rect" id="node83" href="$df/ddf/LookUp_8h.html" title="Definition of the LookUp class. " alt="" coords="1243,481,1407,523"/>
+<area shape="rect" id="node72" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1096,667,1276,694"/>
+<area shape="rect" id="node79" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="171,757,351,783"/>
+<area shape="rect" id="node84" href="$d8/ddb/ClusterTopology_8h.html" title="Definition of the ClusterTopology class. " alt="" coords="1242,571,1445,612"/>
+<area shape="rect" id="node86" href="$d1/d08/TopologyDictionary_8h.html" title="Definition of the ClusterTopology class. " alt="" coords="952,571,1167,612"/>
+<area shape="rect" id="node85" href="$de/dc1/ClusterPattern_8h.html" title="DataFormatsITSMFT/Cluster\lPattern.h" alt="" coords="1402,660,1605,701"/>
+<area shape="rect" id="node87" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="719,667,872,694"/>
+<area shape="rect" id="node91" href="$d4/de2/BaseCluster_8h.html" title="ReconstructionDataFormats\l/BaseCluster.h" alt="" coords="1894,303,2097,344"/>
+<area shape="rect" id="node94" href="$d4/d20/DetMatrixCache_8h.html" title="DetectorsCommonDataFormats\l/DetMatrixCache.h" alt="" coords="2849,392,3077,433"/>
+<area shape="rect" id="node95" href="$df/d5b/GPUCommonLogger_8h.html" title="GPUCommonLogger.h" alt="" coords="3372,489,3536,515"/>
+</map>

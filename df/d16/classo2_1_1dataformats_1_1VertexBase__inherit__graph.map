@@ -1,0 +1,3 @@
+<map id="o2::dataformats::VertexBase" name="o2::dataformats::VertexBase">
+<area shape="rect" id="node2" href="$dd/ded/classo2_1_1dataformats_1_1Vertex.html" title="{o2::dataformats::Vertex\l\&lt; Stamp \&gt;\n|+ FlagsMask\l|+ Vertex()\l+ ~Vertex()\l+ Vertex()\l+ print()\l+ getNContributors()\l+ setNContributors()\l+ getBits()\l+ isBitSet()\l+ setBits()\l+ setBit()\l+ resetBit()\l+ setChi2()\l+ getChi2()\l+ getTimeStamp()\l+ getTimeStamp()\l+ setTimeStamp()\l}" alt="" coords="21,585,197,897"/>
+</map>

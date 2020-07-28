@@ -1,0 +1,16 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/simulation/include/ITSMFTSimulation/DigiParams.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/simulation/include/ITSMFTSimulation/DigiParams.h">
+<area shape="rect" id="node3" href="$d1/d47/AlpideSignalTrapezoid_8h.html" title="Simple class describing ALPIDE signal time shape. " alt="" coords="461,139,683,180"/>
+<area shape="rect" id="node4" href="$d4/d35/DPLAlpideParam_8h.html" title="ITSMFTBase/DPLAlpideParam.h" alt="" coords="969,146,1191,173"/>
+<area shape="rect" id="node5" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="867,228,1095,269"/>
+<area shape="rect" id="node28" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="1811,317,2008,359"/>
+<area shape="rect" id="node35" href="$da/d6b/ConfigurableParamHelper_8h.html" title="CommonUtils/Configurable\lParamHelper.h" alt="" coords="1891,228,2088,269"/>
+<area shape="rect" id="node38" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="589,235,843,262"/>
+<area shape="rect" id="node13" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="1052,325,1183,351"/>
+<area shape="rect" id="node21" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="641,325,810,351"/>
+<area shape="rect" id="node15" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="1071,496,1214,523"/>
+<area shape="rect" id="node18" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="1155,414,1309,441"/>
+<area shape="rect" id="node20" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="1384,414,1643,441"/>
+<area shape="rect" id="node16" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="941,571,1139,597"/>
+<area shape="rect" id="node17" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="1163,571,1328,597"/>
+<area shape="rect" id="node26" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="475,414,669,441"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/reconstruction/include/ITSMFTReconstruction/AlpideCoder.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/reconstruction/include/ITSMFTReconstruction/AlpideCoder.h">
+<area shape="rect" id="node9" href="$d0/d35/PayLoadCont_8h.html" title="Declaration of class for continuos buffer of ALPIDE data. " alt="" coords="872,146,991,173"/>
+<area shape="rect" id="node13" href="$da/d8d/PixelData_8h.html" title="Transient data classes for single pixel and set of pixels from current chip. " alt="" coords="574,139,738,180"/>
+<area shape="rect" id="node22" href="$d0/d7b/NoiseMap_8h.html" title="Definition of the ITSMFT NoiseMap. " alt="" coords="1016,146,1248,173"/>
+<area shape="rect" id="node14" href="$d3/d1e/DataFormats_2Detectors_2ITSMFT_2common_2include_2DataFormatsITSMFT_2Digit_8h.html" title="DataFormatsITSMFT/Digit.h" alt="" coords="496,235,695,262"/>
+<area shape="rect" id="node16" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="221,228,453,269"/>
+<area shape="rect" id="node17" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="479,317,646,344"/>
+<area shape="rect" id="node20" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="201,317,454,344"/>
+</map>

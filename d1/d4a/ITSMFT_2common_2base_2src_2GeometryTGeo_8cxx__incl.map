@@ -1,0 +1,17 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/base/src/GeometryTGeo.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/base/src/GeometryTGeo.cxx">
+<area shape="rect" id="node2" href="$d4/d5c/ITSMFT_2common_2base_2include_2ITSMFTBase_2GeometryTGeo_8h.html" title="ITSMFTBase/GeometryTGeo.h" alt="" coords="1420,124,1634,151"/>
+<area shape="rect" id="node5" href="$d4/d20/DetMatrixCache_8h.html" title="DetectorsCommonDataFormats\l/DetMatrixCache.h" alt="" coords="1565,199,1793,240"/>
+<area shape="rect" id="node6" href="$df/d5b/GPUCommonLogger_8h.html" title="GPUCommonLogger.h" alt="" coords="3306,295,3470,322"/>
+<area shape="rect" id="node9" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="1565,295,1732,322"/>
+<area shape="rect" id="node13" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="1109,288,1337,329"/>
+<area shape="rect" id="node34" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="2329,295,2509,322"/>
+<area shape="rect" id="node19" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="383,385,514,411"/>
+<area shape="rect" id="node27" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="897,385,1066,411"/>
+<area shape="rect" id="node21" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="372,556,514,583"/>
+<area shape="rect" id="node24" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="309,474,462,501"/>
+<area shape="rect" id="node26" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="27,474,286,501"/>
+<area shape="rect" id="node22" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="242,631,439,657"/>
+<area shape="rect" id="node23" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="463,631,628,657"/>
+<area shape="rect" id="node32" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="1242,474,1436,501"/>
+<area shape="rect" id="node42" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="3153,385,3333,411"/>
+</map>

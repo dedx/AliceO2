@@ -1,0 +1,10 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/reconstruction/include/ITSMFTReconstruction/BuildTopologyDictionary.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/reconstruction/include/ITSMFTReconstruction/BuildTopologyDictionary.h">
+<area shape="rect" id="node4" href="$d3/dba/SegmentationAlpide_8h.html" title="Definition of the SegmentationAlpide class. " alt="" coords="917,161,1165,187"/>
+<area shape="rect" id="node17" href="$d8/ddb/ClusterTopology_8h.html" title="Definition of the ClusterTopology class. " alt="" coords="1409,153,1612,195"/>
+<area shape="rect" id="node22" href="$d1/d08/TopologyDictionary_8h.html" title="Definition of the ClusterTopology class. " alt="" coords="2037,153,2251,195"/>
+<area shape="rect" id="node6" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="951,250,1131,277"/>
+<area shape="rect" id="node14" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="769,339,949,366"/>
+<area shape="rect" id="node18" href="$de/dc1/ClusterPattern_8h.html" title="DataFormatsITSMFT/Cluster\lPattern.h" alt="" coords="1713,243,1916,284"/>
+<area shape="rect" id="node21" href="$df/de4/CompCluster_8h.html" title="Definition of the ITSMFT compact cluster. " alt="" coords="2091,339,2341,366"/>
+<area shape="rect" id="node23" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="2399,250,2553,277"/>
+</map>

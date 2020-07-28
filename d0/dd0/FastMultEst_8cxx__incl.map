@@ -1,0 +1,18 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/ITS/reconstruction/src/FastMultEst.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/ITS/reconstruction/src/FastMultEst.cxx">
+<area shape="rect" id="node2" href="$d5/daa/FastMultEst_8h.html" title="Fast multiplicity estimator for ITS. " alt="" coords="938,124,1134,165"/>
+<area shape="rect" id="node3" href="$d3/d57/ChipMappingITS_8h.html" title="ITSMFTReconstruction\l/ChipMappingITS.h" alt="" coords="475,303,639,344"/>
+<area shape="rect" id="node30" href="$df/de4/CompCluster_8h.html" title="Definition of the ITSMFT compact cluster. " alt="" coords="101,310,352,337"/>
+<area shape="rect" id="node31" href="$de/df4/FastMultEstConfig_8h.html" title="Configuration parameters for ITS fast multiplicity estimator. " alt="" coords="1006,213,1202,255"/>
+<area shape="rect" id="node9" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="505,489,674,515"/>
+<area shape="rect" id="node18" href="$dc/dd8/RUInfo_8h.html" title="ITSMFTReconstruction\l/RUInfo.h" alt="" coords="241,392,405,433"/>
+<area shape="rect" id="node19" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="621,392,849,433"/>
+<area shape="rect" id="node16" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="269,571,464,597"/>
+<area shape="rect" id="node23" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="749,489,880,515"/>
+<area shape="rect" id="node25" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="923,645,1066,672"/>
+<area shape="rect" id="node28" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="985,571,1138,597"/>
+<area shape="rect" id="node29" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="1304,571,1563,597"/>
+<area shape="rect" id="node26" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="793,720,991,747"/>
+<area shape="rect" id="node27" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="1015,720,1180,747"/>
+<area shape="rect" id="node32" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="1669,392,1867,433"/>
+<area shape="rect" id="node39" href="$da/d6b/ConfigurableParamHelper_8h.html" title="CommonUtils/Configurable\lParamHelper.h" alt="" coords="1411,303,1608,344"/>
+</map>

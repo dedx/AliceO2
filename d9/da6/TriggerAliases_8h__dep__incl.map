@@ -1,0 +1,15 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Analysis/Core/include/Analysis/TriggerAliases.h" name="/home/travis/build/AliceO2Group/AliceO2/Analysis/Core/include/Analysis/TriggerAliases.h">
+<area shape="rect" id="node2" href="$dd/df9/TriggerAliases_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Core/src/TriggerAliases.cxx" alt="" coords="928,131,1188,187"/>
+<area shape="rect" id="node3" href="$d2/d47/EventSelection_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/DataModel/include\l/Analysis/EventSelection.h" alt="" coords="1263,124,1469,195"/>
+<area shape="rect" id="node7" href="$d9/df1/eventSelection_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/eventSelection.cxx" alt="" coords="5,250,255,306"/>
+<area shape="rect" id="node13" href="$d9/d14/tableMaker_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/tableMaker.cxx" alt="" coords="2459,250,2683,306"/>
+<area shape="rect" id="node4" href="$d5/d75/centralityQa_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/centralityQa.cxx" alt="" coords="279,250,511,306"/>
+<area shape="rect" id="node5" href="$df/d59/correlationsCollection_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/correlations\lCollection.cxx" alt="" coords="535,243,738,313"/>
+<area shape="rect" id="node6" href="$d4/d39/correlationsMixed_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/correlations\lMixed.cxx" alt="" coords="762,243,965,313"/>
+<area shape="rect" id="node8" href="$dd/d91/eventSelectionQa_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/eventSelection\lQa.cxx" alt="" coords="989,243,1212,313"/>
+<area shape="rect" id="node9" href="$d3/db8/invMassAnalysis_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/invMassAnalysis.cxx" alt="" coords="1236,250,1496,306"/>
+<area shape="rect" id="node10" href="$d3/d6a/multiplicityQa_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/multiplicity\lQa.cxx" alt="" coords="1520,243,1719,313"/>
+<area shape="rect" id="node11" href="$d4/d23/multiplicityTable_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/multiplicity\lTable.cxx" alt="" coords="1743,243,1941,313"/>
+<area shape="rect" id="node12" href="$d4/d5e/reducedEventAnalysis_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/reducedEvent\lAnalysis.cxx" alt="" coords="1965,243,2180,313"/>
+<area shape="rect" id="node14" href="$d2/d9d/upcAnalysis_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Analysis/Tasks/upcAnalysis.cxx" alt="" coords="2204,250,2435,306"/>
+</map>

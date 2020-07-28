@@ -1,0 +1,13 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Parameters/include/DataFormatsParameters/GRPObject.h" name="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Parameters/include/DataFormatsParameters/GRPObject.h">
+<area shape="rect" id="node5" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="849,146,1103,173"/>
+<area shape="rect" id="node6" href="$da/d58/Units_8h.html" title="Header to collect definitions for different units. " alt="" coords="1127,146,1295,173"/>
+<area shape="rect" id="node7" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="514,139,742,180"/>
+<area shape="rect" id="node14" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="1317,228,1448,255"/>
+<area shape="rect" id="node22" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="605,228,774,255"/>
+<area shape="rect" id="node16" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="1321,377,1463,404"/>
+<area shape="rect" id="node19" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="1306,303,1459,329"/>
+<area shape="rect" id="node21" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="1024,303,1283,329"/>
+<area shape="rect" id="node17" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="1191,452,1388,479"/>
+<area shape="rect" id="node18" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="1412,452,1577,479"/>
+<area shape="rect" id="node27" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="96,303,291,329"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/ITS/tracking/src/Vertexer.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/ITS/tracking/src/Vertexer.cxx">
+<area shape="rect" id="node2" href="$de/d9b/Vertexer_8h.html" title="ITStracking/Vertexer.h" alt="" coords="1673,124,1838,151"/>
+<area shape="rect" id="node8" href="$dc/d8d/ITS_2tracking_2include_2ITStracking_2ROframe_8h.html" title="ITStracking/ROframe.h" alt="" coords="2576,355,2745,382"/>
+<area shape="rect" id="node13" href="$da/d7f/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Cluster_8h.html" title="ITStracking/Cluster.h" alt="" coords="1075,445,1231,471"/>
+<area shape="rect" id="node28" href="$dc/ddf/ITS_2tracking_2include_2ITStracking_2IndexTableUtils_8h.html" title="ITStracking/IndexTableUtils.h" alt="" coords="1175,534,1386,561"/>
+<area shape="rect" id="node52" href="$d2/dd6/VertexerTraits_8h.html" title="Class to compute the primary vertex in ITS from tracklets. " alt="" coords="1227,199,1428,225"/>
+<area shape="rect" id="node54" href="$df/d50/ClusterLines_8h.html" title="ITStracking/ClusterLines.h" alt="" coords="909,273,1100,300"/>
+<area shape="rect" id="node56" href="$dd/dc5/TrackingConfigParam_8h.html" title="ITStracking/TrackingConfig\lParam.h" alt="" coords="4402,348,4597,389"/>
+<area shape="rect" id="node26" href="$d0/d86/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Constants_8h.html" title="ITStracking/Constants.h" alt="" coords="1330,623,1506,650"/>
+<area shape="rect" id="node29" href="$d3/d6f/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2Vertex_8h.html" title="ReconstructionDataFormats\l/Vertex.h" alt="" coords="2202,437,2405,479"/>
+<area shape="rect" id="node51" href="$d3/d59/Configuration_8h.html" title="ITStracking/Configuration.h" alt="" coords="1561,534,1760,561"/>
+<area shape="rect" id="node55" href="$d8/db3/ITSMFT_2ITS_2tracking_2include_2ITStracking_2Tracklet_8h.html" title="ITStracking/Tracklet.h" alt="" coords="294,355,457,382"/>
+<area shape="rect" id="node44" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="4017,437,4187,479"/>
+<area shape="rect" id="node45" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="3733,437,3903,479"/>
+<area shape="rect" id="node14" href="$df/d3d/Definitions_8h.html" title="ITStracking/Definitions.h" alt="" coords="973,713,1154,739"/>
+<area shape="rect" id="node19" href="$dc/d3e/MathUtils_8h.html" title="ITStracking/MathUtils.h" alt="" coords="570,534,743,561"/>
+<area shape="rect" id="node15" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="559,795,701,821"/>
+<area shape="rect" id="node16" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="429,869,626,896"/>
+<area shape="rect" id="node17" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="650,869,815,896"/>
+<area shape="rect" id="node22" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="591,623,722,650"/>
+<area shape="rect" id="node23" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="5,713,159,739"/>
+<area shape="rect" id="node25" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="437,713,695,739"/>
+<area shape="rect" id="node30" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="2915,534,3095,561"/>
+<area shape="rect" id="node41" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="2135,534,2384,561"/>
+<area shape="rect" id="node38" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="3903,623,4083,650"/>
+<area shape="rect" id="node42" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="4159,623,4325,650"/>
+<area shape="rect" id="node57" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="4401,527,4598,568"/>
+<area shape="rect" id="node62" href="$da/d6b/ConfigurableParamHelper_8h.html" title="CommonUtils/Configurable\lParamHelper.h" alt="" coords="4549,437,4746,479"/>
+</map>

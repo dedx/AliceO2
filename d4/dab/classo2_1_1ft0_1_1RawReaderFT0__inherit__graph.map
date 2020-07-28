@@ -1,0 +1,4 @@
+<map id="o2::ft0::RawReaderFT0&lt; IsExtendedMode &gt;" name="o2::ft0::RawReaderFT0&lt; IsExtendedMode &gt;">
+<area shape="rect" id="node2" href="$d0/db1/classo2_1_1ft0_1_1RawReaderBase.html" title="{o2::ft0::RawReaderBase\l\&lt; DigitBlockFT0, DataBlockPM,\l std::conditional\&lt; IsExtendedMode,\l DataBlockTCMext, DataBlockTCM\l \&gt;::type \&gt;\n|+ mMapDigits\l|+ RawReaderBase()\l+ ~RawReaderBase()\l+ pushDataBlock()\l}" alt="" coords="5,389,257,555"/>
+<area shape="rect" id="node4" href="$d0/db1/classo2_1_1ft0_1_1RawReaderBase.html" title="{o2::ft0::RawReaderBase\l\&lt; DigitBlockType, DataBlockTypes \&gt;\n|+ mMapDigits\l|+ RawReaderBase()\l+ ~RawReaderBase()\l+ pushDataBlock()\l}" alt="" coords="147,161,409,283"/>
+</map>

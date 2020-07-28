@@ -1,0 +1,27 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TRD/base/src/TRDCommonParam.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TRD/base/src/TRDCommonParam.cxx">
+<area shape="rect" id="node5" href="$da/d32/TRDCommonParam_8h.html" title="TRDBase/TRDCommonParam.h" alt="" coords="2216,295,2440,322"/>
+<area shape="rect" id="node8" href="$dd/d07/TRDGeometry_8h.html" title="TRDBase/TRDGeometry.h" alt="" coords="1677,124,1864,151"/>
+<area shape="rect" id="node50" href="$d9/df4/TRDSimParam_8h.html" title="TRDBase/TRDSimParam.h" alt="" coords="2420,124,2611,151"/>
+<area shape="rect" id="node51" href="$db/d4b/MagneticField_8h.html" title="Definition of the MagF class. " alt="" coords="2788,124,2945,151"/>
+<area shape="rect" id="node6" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="2580,377,2747,404"/>
+<area shape="rect" id="node9" href="$d8/dad/TRDGeometryBase_8h.html" title="TRDBase/TRDGeometryBase.h" alt="" coords="1937,206,2158,233"/>
+<area shape="rect" id="node14" href="$d4/d20/DetMatrixCache_8h.html" title="DetectorsCommonDataFormats\l/DetMatrixCache.h" alt="" coords="1580,199,1808,240"/>
+<area shape="rect" id="node20" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="863,288,1091,329"/>
+<area shape="rect" id="node10" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="1148,549,1291,575"/>
+<area shape="rect" id="node13" href="$de/df3/TRDPadPlane_8h.html" title="TRDBase/TRDPadPlane.h" alt="" coords="2008,295,2191,322"/>
+<area shape="rect" id="node11" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="1018,631,1216,657"/>
+<area shape="rect" id="node12" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="1240,631,1405,657"/>
+<area shape="rect" id="node15" href="$df/d5b/GPUCommonLogger_8h.html" title="GPUCommonLogger.h" alt="" coords="1820,295,1984,322"/>
+<area shape="rect" id="node39" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="2274,377,2454,404"/>
+<area shape="rect" id="node27" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="376,377,506,404"/>
+<area shape="rect" id="node32" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="1107,377,1276,404"/>
+<area shape="rect" id="node29" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="310,459,463,486"/>
+<area shape="rect" id="node31" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="28,459,286,486"/>
+<area shape="rect" id="node37" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="853,459,1048,486"/>
+<area shape="rect" id="node47" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="2703,459,2883,486"/>
+<area shape="rect" id="node53" href="$d3/d91/MagFieldParam_8h.html" title="Definition of the MagFieldParam: container for ALICE mag. field parameters. " alt="" coords="2904,206,3071,233"/>
+<area shape="rect" id="node56" href="$dd/dfb/MagneticWrapperChebyshev_8h.html" title="Field/MagneticWrapperChebyshev.h" alt="" coords="3180,206,3432,233"/>
+<area shape="rect" id="node61" href="$da/df4/MagFieldFast_8h.html" title="Definition of the fast magnetic field parametrization MagFieldFast. " alt="" coords="2464,295,2615,322"/>
+<area shape="rect" id="node59" href="$d8/d64/Chebyshev3D_8h.html" title="MathUtils/Chebyshev3D.h" alt="" coords="3278,295,3468,322"/>
+<area shape="rect" id="node60" href="$d4/d08/Chebyshev3DCalc_8h.html" title="MathUtils/Chebyshev3DCalc.h" alt="" coords="3556,377,3774,404"/>
+</map>

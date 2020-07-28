@@ -1,0 +1,19 @@
+<map id="ATask" name="ATask">
+<area shape="rect" id="node2" href="$de/dac/classo2_1_1framework_1_1Task.html" title="{o2::framework::Task\n||+ ~Task()\l+ init()\l+ run()\l+ endOfStream()\l}" alt="" coords="5,726,160,847"/>
+<area shape="rect" id="node3" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\l\&lt; aod::Uno \&gt;\n||}" alt="" coords="1171,741,1355,833"/>
+<area shape="rect" id="node4" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\&lt; T \&gt;\n||}" alt="" coords="1031,469,1254,546"/>
+<area shape="rect" id="node7" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\l\&lt; aod::EtaPhiPt \&gt;\n||}" alt="" coords="1379,741,1563,833"/>
+<area shape="rect" id="node8" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\l\&lt; aod::TPhi \&gt;\n||}" alt="" coords="1795,741,1979,833"/>
+<area shape="rect" id="node9" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\l\&lt; aod::Due \&gt;\n||}" alt="" coords="184,741,368,833"/>
+<area shape="rect" id="node10" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\l\&lt; aod::EtaPhis \&gt;\n||}" alt="" coords="547,741,731,833"/>
+<area shape="rect" id="node22" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\l\&lt; aod::Tre \&gt;\n||}" alt="" coords="1587,741,1771,833"/>
+<area shape="rect" id="node28" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\l\&lt; aod::FooBars \&gt;\n||}" alt="" coords="755,741,939,833"/>
+<area shape="rect" id="node30" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\l\&lt; aod::EtaPhi \&gt;\n||}" alt="" coords="963,741,1147,833"/>
+<area shape="rect" id="node6" href="$d4/dc3/classfloat.html" title="{float\n||}" alt="" coords="472,748,523,825"/>
+<area shape="rect" id="node11" href="$d4/d79/structo2_1_1framework_1_1OutputObj.html" title="{o2::framework::OutputObj\l\&lt; TH1F \&gt;\n||+ spec()\l+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ operator&#45;\&gt;()\l+ operator*()\l+ ref()\l}" alt="" coords="2003,675,2194,899"/>
+<area shape="rect" id="node20" href="$d4/d79/structo2_1_1framework_1_1OutputObj.html" title="{o2::framework::OutputObj\&lt; T \&gt;\n||+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ spec()\l+ operator&#45;\&gt;()\l+ operator*()\l+ ref()\l}" alt="" coords="2172,403,2401,612"/>
+<area shape="rect" id="node13" href="$d3/d87/classuint32__t.html" title="{uint32_t\n||}" alt="" coords="2441,226,2516,303"/>
+<area shape="rect" id="node16" href="$da/d96/structo2_1_1framework_1_1InputSpec.html" title="{o2::framework::InputSpec\n||+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ operator==()\l}" alt="" coords="1759,189,1948,340"/>
+<area shape="rect" id="node23" href="$d1/dbf/structo2_1_1framework_1_1Partition.html" title="{o2::framework::Partition\l\&lt; myTracks \&gt;\n||+ Partition()\l+ setTable()\l+ bindExternalIndices()\l+ getBoundToExternalIndices()\l+ begin()\l+ begin()\l+ end()\l+ end()\l+ size()\l}" alt="" coords="2782,682,3005,891"/>
+<area shape="rect" id="node26" href="$d1/dbf/structo2_1_1framework_1_1Partition.html" title="{o2::framework::Partition\&lt; T \&gt;\n||+ Partition()\l+ setTable()\l+ bindExternalIndices()\l+ getBoundToExternalIndices()\l+ begin()\l+ end()\l+ begin()\l+ end()\l+ size()\l}" alt="" coords="3045,410,3267,605"/>
+</map>

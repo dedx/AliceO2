@@ -1,0 +1,14 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/Common/include/DetectorsCommonDataFormats/EncodedBlocks.h" name="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/Common/include/DetectorsCommonDataFormats/EncodedBlocks.h">
+<area shape="rect" id="node4" href="$d4/de7/rans_8h.html" title="header for public api " alt="" coords="885,139,984,165"/>
+<area shape="rect" id="node28" href="$d4/d8f/StringUtils_8h.html" title="CommonUtils/StringUtils.h" alt="" coords="1556,139,1751,165"/>
+<area shape="rect" id="node30" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="1775,139,1929,165"/>
+<area shape="rect" id="node5" href="$d0/d51/SymbolStatistics_8h.html" title="Structure to depict the distribution of symbols in the source message. " alt="" coords="785,363,964,389"/>
+<area shape="rect" id="node17" href="$dd/d74/Utilities_2rANS_2include_2rANS_2Encoder_8h.html" title="rANS/Encoder.h" alt="" coords="290,213,411,240"/>
+<area shape="rect" id="node25" href="$dc/d62/Utilities_2rANS_2include_2rANS_2Decoder_8h.html" title="rANS/Decoder.h" alt="" coords="947,213,1069,240"/>
+<area shape="rect" id="node14" href="$d4/da1/helper_8h.html" title="various helper functions " alt="" coords="605,437,680,464"/>
+<area shape="rect" id="node20" href="$d8/dd9/SymbolTable_8h.html" title="Container for information needed to encode/decode a symbol of the alphabet. " alt="" coords="699,288,816,315"/>
+<area shape="rect" id="node22" href="$d2/d53/EncoderSymbol_8h.html" title="Structure containing all relevant information to encode a symbol. " alt="" coords="109,363,243,389"/>
+<area shape="rect" id="node23" href="$d5/d7a/Coder_8h.html" title="Stateless class for coding and decoding symbols using rANS. " alt="" coords="403,288,474,315"/>
+<area shape="rect" id="node24" href="$d7/d99/DecoderSymbol_8h.html" title="Structure containing all relevant information for decoding a rANS encoded symbol. ..." alt="" coords="370,363,507,389"/>
+<area shape="rect" id="node26" href="$dc/d3b/ReverseSymbolLookupTable_8h.html" title="Maps CDF back to source symbol &#45; needed for the decoder. " alt="" coords="900,288,1116,315"/>
+</map>

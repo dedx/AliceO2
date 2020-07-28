@@ -1,0 +1,19 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/include/Framework/ParallelContext.h" name="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/include/Framework/ParallelContext.h">
+<area shape="rect" id="node2" href="$dd/d27/CommonServices_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/src/CommonServices.cxx" alt="" coords="5,131,305,187"/>
+<area shape="rect" id="node3" href="$d7/d54/runDataProcessing_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/src/runDataProcessing.cxx" alt="" coords="329,131,637,187"/>
+<area shape="rect" id="node4" href="$db/d30/test__CallbackService_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/test/test\l_CallbackService.cxx" alt="" coords="661,124,852,195"/>
+<area shape="rect" id="node5" href="$d5/d47/test__CustomGUIGL_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/test/test\l_CustomGUIGL.cxx" alt="" coords="876,124,1067,195"/>
+<area shape="rect" id="node6" href="$d6/dd1/test__CustomGUISokol_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/test/test\l_CustomGUISokol.cxx" alt="" coords="1091,124,1281,195"/>
+<area shape="rect" id="node7" href="$d3/d66/test__Parallel_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/test/test\l_Parallel.cxx" alt="" coords="1305,124,1496,195"/>
+<area shape="rect" id="node8" href="$d8/d7e/test__ParallelPipeline_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/test/test\l_ParallelPipeline.cxx" alt="" coords="1520,124,1711,195"/>
+<area shape="rect" id="node9" href="$d0/d0b/test__ParallelProducer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/test/test\l_ParallelProducer.cxx" alt="" coords="1735,124,1925,195"/>
+<area shape="rect" id="node10" href="$d7/d71/test__RegionInfoCallbackService_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/test/test\l_RegionInfoCallbackService.cxx" alt="" coords="1950,124,2179,195"/>
+<area shape="rect" id="node11" href="$d7/d18/test__SimpleTracksED_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/test/test\l_SimpleTracksED.cxx" alt="" coords="2204,124,2395,195"/>
+<area shape="rect" id="node12" href="$d1/d4f/test__TimePipeline_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/test/test\l_TimePipeline.cxx" alt="" coords="2419,124,2609,195"/>
+<area shape="rect" id="node13" href="$d3/dbe/dataSamplingParallel_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/TestWorkflows\l/src/dataSamplingParallel.cxx" alt="" coords="2633,124,2848,195"/>
+<area shape="rect" id="node14" href="$db/d9e/dataSamplingTimePipeline_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/TestWorkflows\l/src/dataSamplingTimePipeline.cxx" alt="" coords="2873,124,3123,195"/>
+<area shape="rect" id="node15" href="$db/d1a/flpQualification_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/TestWorkflows\l/src/flpQualification.cxx" alt="" coords="3147,124,3342,195"/>
+<area shape="rect" id="node16" href="$d3/d09/o2ParallelWorkflow_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/TestWorkflows\l/src/o2ParallelWorkflow.cxx" alt="" coords="3367,124,3565,195"/>
+<area shape="rect" id="node17" href="$d8/d33/test__CompletionPolicies_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/TestWorkflows\l/src/test_CompletionPolicies.cxx" alt="" coords="3589,124,3823,195"/>
+<area shape="rect" id="node18" href="$d2/d0b/TPCDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/TPCDigitizerSpec.cxx" alt="" coords="3847,124,4034,195"/>
+</map>

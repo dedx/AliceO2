@@ -1,0 +1,26 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/gconfig/src/G4Config.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/gconfig/src/G4Config.cxx">
+<area shape="rect" id="node3" href="$d4/d03/simulation_2include_2SimulationDataFormat_2Stack_8h.html" title="SimulationDataFormat\l/Stack.h" alt="" coords="1807,131,1977,173"/>
+<area shape="rect" id="node48" href="$de/d1c/StackParam_8h.html" title="SimulationDataFormat\l/StackParam.h" alt="" coords="3910,131,4079,173"/>
+<area shape="rect" id="node62" href="$d9/d6d/Cave_8h.html" title="DetectorsPassive/Cave.h" alt="" coords="2631,325,2814,351"/>
+<area shape="rect" id="node65" href="$d0/d9a/MaterialManager_8h.html" title="DetectorsBase/MaterialManager.h" alt="" coords="2838,325,3079,351"/>
+<area shape="rect" id="node68" href="$d9/d04/GlobalProcessCutSimParam_8h.html" title="SimSetup/GlobalProcessCut\lSimParam.h" alt="" coords="3488,131,3691,173"/>
+<area shape="rect" id="node69" href="$dc/d06/G4Params_8h.html" title="SimConfig/G4Params.h" alt="" coords="3715,139,3885,165"/>
+<area shape="rect" id="node70" href="$d5/d2a/DecayerPythia8_8h.html" title="Generators/DecayerPythia8.h" alt="" coords="4104,139,4317,165"/>
+<area shape="rect" id="node81" href="$d7/de7/SetCuts_8h.html" title="../SetCuts.h" alt="" coords="5837,139,5933,165"/>
+<area shape="rect" id="node4" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="290,317,518,359"/>
+<area shape="rect" id="node29" href="$d2/de2/MCTrack_8h.html" title="Definition of the MCTrack class. " alt="" coords="1083,228,1253,269"/>
+<area shape="rect" id="node37" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="1671,228,1841,269"/>
+<area shape="rect" id="node41" href="$d5/dbe/TrackReference_8h.html" title="SimulationDataFormat\l/TrackReference.h" alt="" coords="2177,228,2346,269"/>
+<area shape="rect" id="node44" href="$d6/d9d/MCEventStats_8h.html" title="SimulationDataFormat\l/MCEventStats.h" alt="" coords="1905,228,2074,269"/>
+<area shape="rect" id="node13" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="236,414,367,441"/>
+<area shape="rect" id="node21" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="1342,414,1511,441"/>
+<area shape="rect" id="node15" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="433,571,575,597"/>
+<area shape="rect" id="node18" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="339,496,493,523"/>
+<area shape="rect" id="node20" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="5,496,264,523"/>
+<area shape="rect" id="node16" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="303,645,500,672"/>
+<area shape="rect" id="node17" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="524,645,689,672"/>
+<area shape="rect" id="node26" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="1351,496,1545,523"/>
+<area shape="rect" id="node38" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="1955,325,2122,351"/>
+<area shape="rect" id="node49" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="3491,317,3688,359"/>
+<area shape="rect" id="node54" href="$da/d6b/ConfigurableParamHelper_8h.html" title="CommonUtils/Configurable\lParamHelper.h" alt="" coords="3681,228,3879,269"/>
+</map>

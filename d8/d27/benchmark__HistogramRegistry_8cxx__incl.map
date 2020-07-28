@@ -1,0 +1,25 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/test/benchmark_HistogramRegistry.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/test/benchmark_HistogramRegistry.cxx">
+<area shape="rect" id="node2" href="$da/dd6/HistogramRegistry_8h.html" title="Framework/HistogramRegistry.h" alt="" coords="2562,124,2791,151"/>
+<area shape="rect" id="node35" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="3403,199,3556,225"/>
+<area shape="rect" id="node3" href="$de/d33/ASoA_8h.html" title="Framework/ASoA.h" alt="" coords="1285,273,1429,300"/>
+<area shape="rect" id="node9" href="$de/d9b/FunctionalHelpers_8h.html" title="Framework/FunctionalHelpers.h" alt="" coords="387,348,614,375"/>
+<area shape="rect" id="node36" href="$d6/d5a/OutputRef_8h.html" title="Framework/OutputRef.h" alt="" coords="3204,199,3379,225"/>
+<area shape="rect" id="node57" href="$db/d2d/OutputSpec_8h.html" title="Framework/OutputSpec.h" alt="" coords="2995,199,3180,225"/>
+<area shape="rect" id="node60" href="$db/dff/StringHelpers_8h.html" title="Framework/StringHelpers.h" alt="" coords="2256,199,2455,225"/>
+<area shape="rect" id="node61" href="$d5/d98/TableBuilder_8h.html" title="Framework/TableBuilder.h" alt="" coords="879,199,1069,225"/>
+<area shape="rect" id="node4" href="$dd/dce/Pack_8h.html" title="Framework/Pack.h" alt="" coords="232,430,372,457"/>
+<area shape="rect" id="node8" href="$d1/d00/CheckTypes_8h.html" title="Framework/CheckTypes.h" alt="" coords="902,430,1089,457"/>
+<area shape="rect" id="node11" href="$d9/de8/CompilerBuiltins_8h.html" title="Framework/CompilerBuiltins.h" alt="" coords="397,430,615,457"/>
+<area shape="rect" id="node12" href="$db/d31/Traits_8h.html" title="Framework/Traits.h" alt="" coords="217,348,363,375"/>
+<area shape="rect" id="node14" href="$d0/d91/Expressions_8h.html" title="Framework/Expressions.h" alt="" coords="1104,348,1292,375"/>
+<area shape="rect" id="node29" href="$d4/de7/ArrowTypes_8h.html" title="Framework/ArrowTypes.h" alt="" coords="2029,348,2215,375"/>
+<area shape="rect" id="node15" href="$dd/dc2/BasicOps_8h.html" title="Framework/BasicOps.h" alt="" coords="1113,430,1283,457"/>
+<area shape="rect" id="node37" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="3112,348,3281,375"/>
+<area shape="rect" id="node45" href="$d4/d00/Headers_2include_2Headers_2Stack_8h.html" title="Headers/Stack.h" alt="" coords="3610,273,3738,300"/>
+<area shape="rect" id="node43" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="3509,430,3703,457"/>
+<area shape="rect" id="node46" href="$dc/d03/MemoryResources_8h.html" title="MemoryResources/MemoryResources.h" alt="" coords="3985,348,4261,375"/>
+<area shape="rect" id="node58" href="$dc/dca/Lifetime_8h.html" title="Framework/Lifetime.h" alt="" coords="2995,273,3159,300"/>
+<area shape="rect" id="node59" href="$d0/d1b/ConcreteDataMatcher_8h.html" title="Framework/ConcreteDataMatcher.h" alt="" coords="3285,273,3535,300"/>
+<area shape="rect" id="node62" href="$db/d4f/StructToTuple_8h.html" title="Framework/StructToTuple.h" alt="" coords="152,273,348,300"/>
+<area shape="rect" id="node64" href="$d7/dbe/VariantHelpers_8h.html" title="Framework/VariantHelpers.h" alt="" coords="619,273,825,300"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/simulation/include/TOFSimulation/Detector.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/simulation/include/TOFSimulation/Detector.h">
+<area shape="rect" id="node2" href="$d1/d3a/Base_2include_2DetectorsBase_2Detector_8h.html" title="DetectorsBase/Detector.h" alt="" coords="985,385,1173,411"/>
+<area shape="rect" id="node23" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="69,474,283,501"/>
+<area shape="rect" id="node27" href="$d4/d54/Geo_8h.html" title="TOFBase/Geo.h" alt="" coords="3115,131,3237,158"/>
+<area shape="rect" id="node55" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="3581,124,3750,165"/>
+<area shape="rect" id="node9" href="$d0/d9a/MaterialManager_8h.html" title="DetectorsBase/MaterialManager.h" alt="" coords="1297,474,1538,501"/>
+<area shape="rect" id="node18" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="87,563,297,590"/>
+<area shape="rect" id="node28" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="3463,474,3716,501"/>
+<area shape="rect" id="node29" href="$d1/dec/HBFUtils_8h.html" title="DetectorsRaw/HBFUtils.h" alt="" coords="2906,213,3091,240"/>
+<area shape="rect" id="node30" href="$d6/dec/Raw_2include_2DetectorsRaw_2RDHUtils_8h.html" title="DetectorsRaw/RDHUtils.h" alt="" coords="2679,295,2867,322"/>
+<area shape="rect" id="node39" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="3032,377,3264,419"/>
+<area shape="rect" id="node48" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="1760,377,1957,419"/>
+<area shape="rect" id="node51" href="$da/d6b/ConfigurableParamHelper_8h.html" title="CommonUtils/Configurable\lParamHelper.h" alt="" coords="2024,288,2221,329"/>
+<area shape="rect" id="node54" href="$de/da4/Triggers_8h.html" title="Definition of the 32 Central Trigger System (CTS) Trigger Types defined in https://twiki.cern.ch/twiki/pub/ALICE/NoteForFEDevelopers/CTS_CRU_FE_interface.pdf. " alt="" coords="2892,295,3105,322"/>
+<area shape="rect" id="node31" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="2298,474,2441,501"/>
+<area shape="rect" id="node34" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="3221,474,3387,501"/>
+<area shape="rect" id="node35" href="$d4/d78/DataFormats_2Headers_2include_2Headers_2RAWDataHeader_8h.html" title="Headers/RAWDataHeader.h" alt="" coords="2759,474,2958,501"/>
+<area shape="rect" id="node37" href="$d6/d89/RDHAny_8h.html" title="Headers/RDHAny.h" alt="" coords="2517,385,2661,411"/>
+<area shape="rect" id="node41" href="$d7/d34/DAQID_8h.html" title="Headers/DAQID.h" alt="" coords="2686,385,2821,411"/>
+<area shape="rect" id="node32" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="1760,563,1957,590"/>
+<area shape="rect" id="node33" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="1981,563,2147,590"/>
+<area shape="rect" id="node42" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="2465,474,2634,501"/>
+<area shape="rect" id="node46" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="2544,563,2739,590"/>
+<area shape="rect" id="node56" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="3791,474,3971,501"/>
+<area shape="rect" id="node63" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="3757,563,3937,590"/>
+</map>

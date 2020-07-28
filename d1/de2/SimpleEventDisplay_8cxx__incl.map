@@ -1,0 +1,43 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/monitor/src/SimpleEventDisplay.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/monitor/src/SimpleEventDisplay.cxx">
+<area shape="rect" id="node6" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="1247,929,1424,956"/>
+<area shape="rect" id="node20" href="$db/d9b/CalArray_8h.html" title="TPCBase/CalArray.h" alt="" coords="1710,445,1859,471"/>
+<area shape="rect" id="node29" href="$d5/d1d/TPC_2base_2include_2TPCBase_2Mapper_8h.html" title="TPCBase/Mapper.h" alt="" coords="1325,534,1468,561"/>
+<area shape="rect" id="node32" href="$de/d41/PadPos_8h.html" title="TPCBase/PadPos.h" alt="" coords="985,780,1126,807"/>
+<area shape="rect" id="node39" href="$df/d26/CRU_8h.html" title="TPCBase/CRU.h" alt="" coords="550,705,673,732"/>
+<area shape="rect" id="node43" href="$db/dc3/SimpleEventDisplay_8h.html" title="TPCMonitor/SimpleEventDisplay.h" alt="" coords="700,124,941,151"/>
+<area shape="rect" id="node8" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="1771,1086,1951,1113"/>
+<area shape="rect" id="node11" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="2749,1004,2929,1031"/>
+<area shape="rect" id="node33" href="$dd/d0b/PadSecPos_8h.html" title="TPCBase/PadSecPos.h" alt="" coords="1220,705,1384,732"/>
+<area shape="rect" id="node34" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="1460,855,1595,881"/>
+<area shape="rect" id="node36" href="$da/d61/PadROCPos_8h.html" title="TPCBase/PadROCPos.h" alt="" coords="649,623,819,650"/>
+<area shape="rect" id="node38" href="$d3/d54/DigitPos_8h.html" title="TPCBase/DigitPos.h" alt="" coords="843,623,993,650"/>
+<area shape="rect" id="node40" href="$d1/d1f/FECInfo_8h.html" title="TPCBase/FECInfo.h" alt="" coords="2574,855,2718,881"/>
+<area shape="rect" id="node41" href="$da/d9d/PadRegionInfo_8h.html" title="TPCBase/PadRegionInfo.h" alt="" coords="1219,623,1406,650"/>
+<area shape="rect" id="node42" href="$d6/d42/PartitionInfo_8h.html" title="TPCBase/PartitionInfo.h" alt="" coords="1431,623,1605,650"/>
+<area shape="rect" id="node35" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="1448,929,1660,956"/>
+<area shape="rect" id="node37" href="$dc/d14/ROC_8h.html" title="TPCBase/ROC.h" alt="" coords="583,780,706,807"/>
+<area shape="rect" id="node45" href="$d6/d2b/TPC_2base_2include_2TPCBase_2CalDet_8h.html" title="TPCBase/CalDet.h" alt="" coords="1769,355,1907,382"/>
+<area shape="rect" id="node48" href="$d7/dd7/CalibRawBase_8h.html" title="TPCCalibration/CalibRawBase.h" alt="" coords="2489,199,2715,225"/>
+<area shape="rect" id="node53" href="$db/d52/GBTFrameContainer_8h.html" title="Container class for the GBT Frames. " alt="" coords="3151,437,3365,479"/>
+<area shape="rect" id="node71" href="$d3/d11/RawReader_8h.html" title="TPCReconstruction/RawReader.h" alt="" coords="2264,273,2495,300"/>
+<area shape="rect" id="node74" href="$d6/dbe/RawReaderEventSync_8h.html" title="TPCReconstruction/RawReader\lEventSync.h" alt="" coords="2492,348,2712,389"/>
+<area shape="rect" id="node75" href="$df/d86/RawReaderCRU_8h.html" title="TPCReconstruction/RawReader\lCRU.h" alt="" coords="4125,348,4345,389"/>
+<area shape="rect" id="node54" href="$d3/d7d/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Digit_8h.html" title="DataFormatsTPC/Digit.h" alt="" coords="5255,534,5434,561"/>
+<area shape="rect" id="node61" href="$d5/d41/AdcClockMonitor_8h.html" title="Class to monitor the ADC smapling clock contained in the GBT frame. " alt="" coords="3155,527,3361,568"/>
+<area shape="rect" id="node63" href="$dc/dea/GBTFrame_8h.html" title="GBT Frame object. " alt="" coords="3735,534,3962,561"/>
+<area shape="rect" id="node64" href="$df/dc4/HalfSAMPAData_8h.html" title="Class for data from one half SAMPA. " alt="" coords="4037,534,4298,561"/>
+<area shape="rect" id="node65" href="$d1/df0/SyncPatternMonitor_8h.html" title="Class to monitor the data stream and detect synchronization patterns. " alt="" coords="3386,527,3610,568"/>
+<area shape="rect" id="node55" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="5957,705,6124,732"/>
+<area shape="rect" id="node56" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="5232,705,5375,732"/>
+<area shape="rect" id="node59" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="5196,623,5445,650"/>
+<area shape="rect" id="node57" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="5069,780,5266,807"/>
+<area shape="rect" id="node58" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="5290,780,5455,807"/>
+<area shape="rect" id="node81" href="$d6/dec/Raw_2include_2DetectorsRaw_2RDHUtils_8h.html" title="DetectorsRaw/RDHUtils.h" alt="" coords="5571,445,5759,471"/>
+<area shape="rect" id="node82" href="$d4/d78/DataFormats_2Headers_2include_2Headers_2RAWDataHeader_8h.html" title="Headers/RAWDataHeader.h" alt="" coords="5519,623,5717,650"/>
+<area shape="rect" id="node90" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="4775,705,4970,732"/>
+<area shape="rect" id="node83" href="$d6/d89/RDHAny_8h.html" title="Headers/RDHAny.h" alt="" coords="5087,534,5231,561"/>
+<area shape="rect" id="node85" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="5791,616,6023,657"/>
+<area shape="rect" id="node87" href="$d7/d34/DAQID_8h.html" title="Headers/DAQID.h" alt="" coords="4928,534,5063,561"/>
+<area shape="rect" id="node86" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="5679,705,5933,732"/>
+<area shape="rect" id="node88" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="4531,623,4700,650"/>
+</map>

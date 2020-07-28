@@ -1,0 +1,5 @@
+<map id="pidTOFTask" name="pidTOFTask">
+<area shape="rect" id="node2" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\l\&lt; aod::pidRespTOF \&gt;\n||}" alt="" coords="5,145,189,237"/>
+<area shape="rect" id="node3" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\&lt; T \&gt;\n||}" alt="" coords="91,5,314,83"/>
+<area shape="rect" id="node4" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\l\&lt; aod::pidRespTOFbeta \&gt;\n||}" alt="" coords="213,145,403,237"/>
+</map>

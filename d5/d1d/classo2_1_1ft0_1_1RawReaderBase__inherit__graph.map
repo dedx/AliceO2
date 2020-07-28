@@ -1,0 +1,4 @@
+<map id="o2::ft0::RawReaderBase&lt; DigitBlockType, DataBlockTypes &gt;" name="o2::ft0::RawReaderBase&lt; DigitBlockType, DataBlockTypes &gt;">
+<area shape="rect" id="node3" href="$d0/db1/classo2_1_1ft0_1_1RawReaderBase.html" title="{o2::ft0::RawReaderBase\l\&lt; DigitBlockFT0, DataBlockPM,\l std::conditional\&lt; IsExtendedMode,\l DataBlockTCMext, DataBlockTCM\l \&gt;::type \&gt;\n|+ mMapDigits\l|+ RawReaderBase()\l+ ~RawReaderBase()\l+ pushDataBlock()\l}" alt="" coords="10,389,262,555"/>
+<area shape="rect" id="node4" href="$d7/d00/classo2_1_1ft0_1_1RawReaderFT0.html" title="{o2::ft0::RawReaderFT0\l\&lt; IsExtendedMode \&gt;\n||+ RawReaderFT0()\l+ ~RawReaderFT0()\l+ proccess()\l+ popDigits()\l}" alt="" coords="52,604,220,740"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/GPU/GPUTracking/DataCompression/AliHLTTPCClusterStatComponent.cxx" name="/home/travis/build/AliceO2Group/AliceO2/GPU/GPUTracking/DataCompression/AliHLTTPCClusterStatComponent.cxx">
+<area shape="rect" id="node9" href="$df/d13/GPUParam_8h.html" title="GPUParam.h" alt="" coords="1243,131,1345,158"/>
+<area shape="rect" id="node30" href="$d9/d9c/GPUTPCGMPolynomialField_8h.html" title="GPUTPCGMPolynomialField.h" alt="" coords="1262,221,1473,247"/>
+<area shape="rect" id="node32" href="$d2/dbf/AliHLTTPCClusterStatComponent_8h.html" title="AliHLTTPCClusterStatComponent.h" alt="" coords="1673,131,1920,158"/>
+<area shape="rect" id="node40" href="$d0/dd8/GPUTPCGMPropagator_8h.html" title="GPUTPCGMPropagator.h" alt="" coords="1421,131,1599,158"/>
+<area shape="rect" id="node43" href="$d8/d33/GPUTPCGMTrackParam_8h.html" title="GPUTPCGMTrackParam.h" alt="" coords="1745,303,1928,329"/>
+<area shape="rect" id="node47" href="$d2/d7d/GPUTPCGMPolynomialFieldManager_8h.html" title="GPUTPCGMPolynomialFieldManager.h" alt="" coords="543,527,810,553"/>
+<area shape="rect" id="node49" href="$dd/d86/AliHLTTPCRawCluster_8h.html" title="AliHLTTPCRawCluster.h" alt="" coords="3015,131,3187,158"/>
+<area shape="rect" id="node10" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="1151,601,1293,628"/>
+<area shape="rect" id="node13" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="1415,377,1568,404"/>
+<area shape="rect" id="node16" href="$d2/d6d/GPUDef_8h.html" title="GPUDef.h" alt="" coords="1659,452,1743,479"/>
+<area shape="rect" id="node23" href="$dd/dc6/GPUSettings_8h.html" title="GPUSettings.h" alt="" coords="971,221,1086,247"/>
+<area shape="rect" id="node29" href="$d6/d1b/GPUTPCGeometry_8h.html" title="GPUTPCGeometry.h" alt="" coords="713,303,864,329"/>
+<area shape="rect" id="node11" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="1021,676,1218,703"/>
+<area shape="rect" id="node12" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="1242,676,1407,703"/>
+<area shape="rect" id="node17" href="$d2/d37/GPUDefConstantsAndSettings_8h.html" title="GPUDefConstantsAndSettings.h" alt="" coords="1108,527,1336,553"/>
+<area shape="rect" id="node18" href="$dc/de9/GPUDefGPUParameters_8h.html" title="GPUDefGPUParameters.h" alt="" coords="1998,527,2185,553"/>
+<area shape="rect" id="node20" href="$d3/d4c/GPUDefOpenCL12Templates_8h.html" title="GPUDefOpenCL12Templates.h" alt="" coords="1513,527,1731,553"/>
+<area shape="rect" id="node21" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="1756,527,1923,553"/>
+<area shape="rect" id="node19" href="$d6/dff/GPUDefMacros_8h.html" title="GPUDefMacros.h" alt="" coords="2026,601,2157,628"/>
+<area shape="rect" id="node26" href="$da/d08/qconfig_8h.html" title="utils/qconfig.h" alt="" coords="1161,303,1275,329"/>
+<area shape="rect" id="node27" href="$d8/de9/qconfigoptions_8h.html" title="qconfigoptions.h" alt="" coords="1149,377,1279,404"/>
+<area shape="rect" id="node28" href="$d4/d57/GPUSettingsList_8h.html" title="GPUSettingsList.h" alt="" coords="1153,452,1291,479"/>
+<area shape="rect" id="node31" href="$da/dab/GPUTPCDef_8h.html" title="GPUTPCDef.h" alt="" coords="1643,377,1753,404"/>
+<area shape="rect" id="node41" href="$d0/d79/GPUTPCGMOfflineStatisticalErrors_8h.html" title="GPUTPCGMOfflineStatistical\lErrors.h" alt="" coords="1857,213,2061,255"/>
+<area shape="rect" id="node42" href="$d6/d37/GPUTPCGMPhysicalTrackModel_8h.html" title="GPUTPCGMPhysicalTrackModel.h" alt="" coords="1598,221,1833,247"/>
+<area shape="rect" id="node44" href="$d3/dcc/GPUTPCGMMergedTrackHit_8h.html" title="GPUTPCGMMergedTrackHit.h" alt="" coords="1889,452,2099,479"/>
+<area shape="rect" id="node45" href="$d3/d1f/GPUdEdxInfo_8h.html" title="GPUdEdxInfo.h" alt="" coords="1777,377,1896,404"/>
+</map>
